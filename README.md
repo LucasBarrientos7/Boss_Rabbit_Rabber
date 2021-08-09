@@ -6,8 +6,8 @@ Froggy type game entirely made in java.
 A friendly alien rabbit tries to return to his ship but not before avoiding some obstacles on planet earth.
 
 Rabbit Actions:
-Movement -> Directional Keys
-Shot -> space bar
+- Movement -> Directional Keys
+- Shot -> space bar
 
 Game rules:
 - The rabbit must keep in constant movement using the directional keys so that the screen does not "eat" it.
