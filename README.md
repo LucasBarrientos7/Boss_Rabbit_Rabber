@@ -1,5 +1,5 @@
 # Boss_Rabbit_Rabber
-Froggy type game entirely made in java. 
+Frogger type game entirely made in java. 
 
 ![brr](https://user-images.githubusercontent.com/77767010/127939062-636cd174-5065-4b74-9cce-c15a342fbcf9.jpeg)
 
